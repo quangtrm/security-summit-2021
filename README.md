@@ -1,14 +1,42 @@
 # Vietnam Cyber Threat Trends 2021
 
-## Vietnam Security Summit 2021 
-Địa điểm: JW Marriott Hotel Hanoi - Hanoi - Vietnam & Online
-Thời gian: 27-28/10/2021
+Đây là tài liệu của bài trình bày **"Vietnam Cyber Threat Trends 2021"** tại **Vietnam Security Summit 2021**, do **Trần Minh Quảng** (Viettel Threat Intelligence) thực hiện.
 
-## Tóm tắt
-Các doanh nghiệp hiện nay phải đối mặt với hàng loạt nguy cơ ATTT mới, ngày càng nguy hiểm, tinh vi, các nhóm tấn công mạng được tổ chức ngày càng bài bản, chuyên nghiệp, với tiềm lực tài chính dồi dào. Năm 2021, tại Việt Nam ghi nhận sự bùng nổ của hàng loạt nguy cơ ATTT như tấn công phishing lừa đảo người dùng, tấn công có chủ đích tiếp tục gia tăng, số lượng lớn dữ liệu người dùng cuối, dữ liệu các doanh nghiệp bị lộ lọt trên mạng Internet. Báo cáo chia sẻ một số số liệu, xu thế, góc nhìn về tình hình an toàn an ninh mạng tại Việt Nam của Viettel - nhà cung cấp dịch vụ Internet và dịch vụ giám sát an toàn thông tin hàng đầu tại Việt Nam.
+---
 
-## Outline bài trình bày:
--	Các số liệu nổi bật về tình hình ATTT tại Việt Nam năm 2021
--	Một số xu thế về nguy cơ ATTT, tấn công mạng
--	Một số Case Study về các cuộc tấn công mạng, sự cố ATTT tại Việt Nam năm 2021
--	Kết luận, nhận định, khuyến nghị
+## 📌 Tổng quan
+Bài trình bày cung cấp cái nhìn toàn cảnh về tình hình **an ninh mạng tại Việt Nam năm 2021**, bao gồm:
+- **Số liệu thống kê** về các mối đe dọa mạng tại Việt Nam
+- **Xu hướng tấn công mạng nổi bật**: APT, phishing, rò rỉ dữ liệu, khai thác lỗ hổng bảo mật
+- **Nghiên cứu điển hình (Case Study)** về các cuộc tấn công thực tế
+- **Khuyến nghị phòng thủ** dành cho doanh nghiệp và tổ chức
+
+---
+
+## 📂 Tệp tin trong repo
+- 📄 **`Vietnam_Cyber_Threat_Trends_2021_Slides.pdf`** – Slide bài trình bày
+
+---
+
+## 🚀 Điểm nổi bật
+- **Sự gia tăng mạnh mẽ của các chiến dịch phishing**, đặc biệt là trong lĩnh vực ngân hàng.
+- **Rò rỉ dữ liệu lớn** từ các tổ chức Việt Nam trên Deep/Dark Web.
+- **Các nhóm APT tấn công có chủ đích** vào chính phủ, tài chính, năng lượng và y tế.
+- **Lỗ hổng bảo mật nghiêm trọng** bị khai thác để xâm nhập hệ thống.
+
+---
+
+## 📢 Về tác giả
+- **Trần Minh Quảng** - Chuyên gia An ninh mạng, Viettel Threat Intelligence  
+  📍 **Chuyên môn**: Threat Intelligence, phân tích mã độc, điều tra APT  
+  ✉️ Liên hệ: quangtm4@viettel.com.vn | vcs.sales@viettel.com.vn  
+  🌐 [Viettel Cyber Security](https://viettelcybersecurity.com)
+
+---
+
+## ⚠️ Điều khoản
+Tài liệu này nhằm mục đích **nghiên cứu và giáo dục**. Tác giả và Viettel Cyber Security không chịu trách nhiệm về bất kỳ hành vi sử dụng sai mục đích nào.
+
+---
+
+📊 **Theo dõi, phân tích và phòng thủ trước các mối đe dọa mạng tại Việt Nam!**
